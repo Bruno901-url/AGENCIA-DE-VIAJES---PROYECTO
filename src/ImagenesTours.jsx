@@ -1,0 +1,13 @@
+const ImagenesTours = [
+    { imagen: '/img/tour1.jpg', titulo: "Callahuanca", texto: "Callahuanca es conocida por su deliciosa producción de chirimoyas y sus tranquilas vistas", desc: 'Descubre la impresionante Fortaleza de Callahuanca, un legado Inca en Lima.' },
+    { imagen: '/img/tour2.jpg', titulo: "Canta", texto: "Canta es un destino perfecto para disfrutar de la naturaleza, con hermosos valles y el famoso pueblo de Obrajillo.", desc: "Explora los hermosos paisajes de Canta y sus antiguas ruinas." },
+    { imagen: '/img/tour3.jpg', titulo: "Churín", texto: "Churín destaca por sus baños termales y paisajes relajantes, ideales para escapar del estrés de la ciudad.", desc: "Disfruta de deportes extremos y aguas termales en Churin." },
+    { imagen: '/img/tour4.jpg', titulo: "Ica", texto: "Ica ofrece un recorrido por viñedos, la laguna de Huacachina y deportes extremos en sus dunas de arena.", desc: "Vive la aventura en las dunas de Ica y visita las Líneas de Nazca." },
+    { imagen: '/img/tour5.jpg', titulo: "Lunahuaná", texto: "Lunahuaná es famoso por sus deportes de aventura, como el canotaje, así como por su excelente gastronomía y vinos locales.", desc: "Relájate en los viñedos de Lunahuaná y disfruta de sus vinos." },
+    { imagen: '/img/tour6.jpg', titulo: "Marcahuasi", texto: "Marcahuasi es un enigmático bosque de piedras donde los visitantes disfrutan de vistas impresionantes y noches estrelladas.", desc: "Adéntrate en el misterioso complejo arqueológico de Marcahuasi." },
+    { imagen: '/img/tour7.jpg', titulo: "Rupac", texto: "Rupac es conocido como el Machu Picchu limeño, un lugar místico que combina historia y aventura, ideal para los amantes del trekking.", desc: "Explora la ciudadela preinca de Rupac, un tesoro arqueológico." },
+    { imagen: '/img/tour8.jpg', titulo: "Catarata de Huanano", texto: "La catarata de Huanano es una maravillosa caída de agua, de más de 35 metros de altura. Entre los deportes de aventura más practicados está el trekking que se realiza teniendo como objetivo la catarata.", desc: "Descubre la historia y cultura de San Jerónimo de Surco, un distrito lleno de encanto." },
+    { imagen: '/img/tour9.jpg', titulo: "Matucana", texto: "Matucana es un oasis en los Andes, famoso por sus aguas termales, paisajes montañosos y la histórica Estación de Tren de Matucana.", desc: "Descubre la belleza natural y el encanto histórico de Matucana." }
+]
+
+export default ImagenesTours
